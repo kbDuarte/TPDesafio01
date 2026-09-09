@@ -4,9 +4,8 @@ Projeto Android em Kotlin para a disciplina de Desenvolvimento Mobile.
 
 ## Integrantes
 
-- Integrante 1
-- Integrante 2
-- Integrante 3
+- Kauan Borges Duarte - 243951
+- Camilla dos Santos Fernandes Silvestre - 240249
 
 ## Funcionalidades
 
